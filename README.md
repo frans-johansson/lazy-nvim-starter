@@ -19,5 +19,5 @@ lazy.nvim will handle the bootstrapping process on first launch. If you run into
 ## Other projects
 If you're looking for other options in the "Neovim config bootstrap market", here are a few cool options to consider
 - [Kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
-- [Neovim from scratch](https://github.com/LunarVim/Neovim-from-scratch/blob/master/lua/user/nvim-tree.lua), by ChrisAtMachine (hosted under the LunarNvim organization in GitHub)
+- [Neovim from scratch](https://github.com/LunarVim/Neovim-from-scratch), by ChrisAtMachine (hosted under the LunarNvim organization in GitHub)
 - [LazyVim](https://github.com/LazyVim/LazyVim)
