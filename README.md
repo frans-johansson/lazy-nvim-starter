@@ -9,10 +9,10 @@ This is a basic, minimal-ish jump-off point for your Neovim journey utilizing [l
 If you're on a Linux system with `stow` installed, you can simply run
 
 ```sh
-stow .
+stow --verbose --target=$HOME .
 ```
 
-and be up and running! (This assumes you have cloned this repository to your home directory, otherwise you will have to supply `stow` with some more flags)
+from the root directory of this repository and be up and running!
 
 lazy.nvim will handle the bootstrapping process on first launch. If you run into any issues, try closing Neovim and restarting it again after lazy.nvim has performed the intial bootstrap.
 
